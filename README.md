@@ -1,2 +1,2 @@
 # resume
-My personal Resume in latex
+My personal Resume in latex, use with overleaf
